@@ -25,15 +25,3 @@ Here’s what I can help with:
 - **AI Solutions** 🤖: Implementing AI-driven solutions with **GPT-3**, **GPT-4**, and more.
 
 ---
-
-## 📬 Let's Connect!
-
-I’m always open to discussing interesting projects, collaborations, or just sharing knowledge. Feel free to reach out if you:
-
-- Need freelance development or consulting 💻
-- Want to collaborate on open-source projects 👐
-- Are looking for a mentor or technical guidance 📚
-
----
-
-> "Great code is built by continuously learning, adapting, and innovating." 💡
