@@ -1,11 +1,5 @@
 ![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
 
-# 👋 Hi there, I'm Mukhtar Hussain
-
-### Principal Software Engineer | Tech Lead
-
-With over **20 years** in software engineering, I’m passionate about building **scalable**, **secure**, and **high-performance** solutions. From web and desktop applications to modern cloud-based systems, I thrive on tackling complex challenges with the latest technologies.
-
 ---
 
 ## 🚀 My Expertise
@@ -29,13 +23,6 @@ Here’s what I can help with:
 - **Database Design & Optimization** 💾: Crafting and optimizing reliable databases for performance.
 - **Consulting & Mentoring** 🧑‍🏫: Guiding teams and mentoring developers for growth.
 - **AI Solutions** 🤖: Implementing AI-driven solutions with **GPT-3**, **GPT-4**, and more.
-
----
-
-## 🏅 Certifications
-
-- **Microsoft Certified: Azure Fundamentals**  
-  [View Certification](https://www.credly.com/badges/addf120e-9e96-496e-9c17-9a0cdaae63bb)
 
 ---
 
