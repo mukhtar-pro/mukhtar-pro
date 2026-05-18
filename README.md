@@ -1,27 +1,43 @@
-![](https://github.com/techexpert0119/techexpert0119/blob/main/assets/header_1.png)
+﻿![](https://github.com/mukhtar-pro/mukhtar-pro/blob/main/assets/header.png)
 
 ---
 
-## 🚀 My Expertise
+## 👋 About Me
 
-- **Languages:** C#, VB, JavaScript (ES 5 & 6), TypeScript, Python
-- **Frameworks & Libraries:** ReactJS, Angular, VueJS, NodeJS, NestJS, Flask, ASP.NET Core, Blazor, WPF
-- **Databases:** SQL Server, MySQL, PostgreSQL, Oracle, CosmosDB
-- **Cloud & DevOps:** Azure DevOps, AWS, CI/CD, GitHub Actions, Jenkins
-- **Testing & Automation:** xUnit, Playwright, Cypress, Jest
-- **AI & Automation:** GPT-3, GPT-4, VAPI, Chatful, Prompt Engineering, LangChain, LangSmith
+Principal Software Engineer and Tech Lead with 20+ years of experience building and modernizing web, desktop, and cloud platforms. I specialize in .NET, Azure, and JavaScript frameworks - from full-stack SaaS delivery and legacy migration to team leadership and production support. Based in Sydney, Australia.
 
 ---
 
-## 💼 Services I Offer
+## 🚀 Skills
 
-Here’s what I can help with:
-
-- **Full-Stack Development** 🌐: Building scalable, secure, and high-performance web and desktop apps.
-- **Microservices Architecture** 🛠️: Modernizing legacy systems into efficient microservices.
-- **Cloud & DevOps** ☁️: Automating CI/CD pipelines and managing cloud infrastructure.
-- **Database Design & Optimization** 💾: Crafting and optimizing reliable databases for performance.
-- **Consulting & Mentoring** 🧑‍🏫: Guiding teams and mentoring developers for growth.
-- **AI Solutions** 🤖: Implementing AI-driven solutions with **GPT-3**, **GPT-4**, and more.
+- **Frontend:** React, Next.js, Angular, Vue.js, TypeScript, Tailwind CSS, Material UI, shadcn/ui, Blazor
+- **Backend:** C#/.NET, ASP.NET Core, Node.js (Express, NestJS), Python (Flask, Django), GraphQL, Entity Framework, Prisma
+- **Databases:** SQL Server, PostgreSQL, Supabase, Oracle, MongoDB, Redis
+- **Desktop & Mobile:** WPF, Xamarin Forms, Xamarin Android, React Native, Flutter
+- **Cloud & DevOps:** Azure, AWS, Docker, Azure DevOps, GitHub Actions, Kubernetes
+- **Testing:** Playwright, Cypress, Jest, Vitest
 
 ---
+
+## 💼 What I Do
+
+- **Full-Stack Development** - End-to-end delivery of web and desktop applications, from architecture through deployment and production support.
+- **Legacy Modernization** - Moving older .NET, WebForms, and desktop systems to modern cloud-ready stacks while keeping things running.
+- **Cloud & DevOps** - Azure-first delivery with CI/CD, Docker, deployment pipelines, and observability tooling.
+- **Team Leadership** - Leading engineering teams, running architecture reviews, mentoring developers, and owning delivery end-to-end.
+- **AI & Document Processing** - Building AI-assisted workflows for document parsing, data extraction, and LLM integration.
+
+---
+
+## 🗂️ Portfolio
+
+| Project                                           | Industry            | Stack                                   |
+| ------------------------------------------------- | ------------------- | --------------------------------------- |
+| [SellMyTickets](https://sellmytickets.vercel.app) | Event Ticketing     | Next.js, TypeScript, PostgreSQL, Stripe |
+| [COOL+](https://coolplus.ai)                      | Education           | Next.js, Clerk, Neon, Zod, BigQuery     |
+| [Sideway.ai](https://sideway.ai)                  | Insurance SaaS      | React, Flask, PostgreSQL, Azure         |
+| [TeamHive](https://team-hive.co)                  | HR SaaS             | Next.js, Supabase, Vue 3, .NET          |
+| [NXP](https://nxp.nz)                             | eCommerce           | Next.js, C#/.NET, Algolia, Contentful   |
+| [LifeDirect](https://lifedirect.co.nz)            | Insurance           | React, ASP.NET Core, SQL Server         |
+| [LedgerSmith](https://ledgersmith.com.au)         | Financial Services  | React, TypeScript, Python, Azure        |
+| [Dualog](https://dualog.com)                      | Maritime Technology | Angular, C#/.NET Core, GitHub Actions   |
